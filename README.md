@@ -15,4 +15,4 @@ Once the UserScript is installed, it will automatically run on the LLM websites.
 
 ## Credits
 
-This repo forked from (here)[https://github.com/AlirezaF80/ChatGPT-RTL] by Alireza Farzaneh.
+This repo forked from [here](https://github.com/AlirezaF80/ChatGPT-RTL) by Alireza Farzaneh.
