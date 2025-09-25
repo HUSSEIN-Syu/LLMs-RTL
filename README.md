@@ -13,6 +13,16 @@ LLM RTL is a UserScript which modifies the interface of ChatGPT, DeepSeek, Qwen 
 
 Once the UserScript is installed, it will automatically run on the LLM websites. It will detect RTL text and modify the corresponding elements to display the text correctly from right to left.
 
+## Shots
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51589c2d-74d5-4db3-8578-57632b4252d2" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0cc67dcf-7f7b-4ed3-bacc-f61cf0ef8802" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c953eae0-895a-40ce-af4f-91bb9cec85d5" />
+
+
+
 ## Credits
 
 This repo forked from [here](https://github.com/AlirezaF80/ChatGPT-RTL) by Alireza Farzaneh.
